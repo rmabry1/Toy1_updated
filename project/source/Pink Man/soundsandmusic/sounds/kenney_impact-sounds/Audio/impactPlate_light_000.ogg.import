@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://6u1egk4q336r"
+path="res://.godot/imported/impactPlate_light_000.ogg-efa8816b6fa44e893560673a0e9f15e5.oggvorbisstr"
+
+[deps]
+
+source_file="res://source/Pink Man/soundsandmusic/sounds/kenney_impact-sounds/Audio/impactPlate_light_000.ogg"
+dest_files=["res://.godot/imported/impactPlate_light_000.ogg-efa8816b6fa44e893560673a0e9f15e5.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

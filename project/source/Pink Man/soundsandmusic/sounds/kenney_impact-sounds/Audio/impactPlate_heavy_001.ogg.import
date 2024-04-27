@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://ccmwc6tif7ytj"
+path="res://.godot/imported/impactPlate_heavy_001.ogg-5a5c22595cd3f217887c39e3c6cccd5a.oggvorbisstr"
+
+[deps]
+
+source_file="res://source/Pink Man/soundsandmusic/sounds/kenney_impact-sounds/Audio/impactPlate_heavy_001.ogg"
+dest_files=["res://.godot/imported/impactPlate_heavy_001.ogg-5a5c22595cd3f217887c39e3c6cccd5a.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

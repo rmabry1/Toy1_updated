@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cvcyonvnm1evu"
+path="res://.godot/imported/impactWood_light_002.ogg-96aada6667b5453be4756714b0d5a222.oggvorbisstr"
+
+[deps]
+
+source_file="res://source/Pink Man/soundsandmusic/sounds/kenney_impact-sounds/Audio/impactWood_light_002.ogg"
+dest_files=["res://.godot/imported/impactWood_light_002.ogg-96aada6667b5453be4756714b0d5a222.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://de0iwkf62rgrl"
+path="res://.godot/imported/impactGlass_medium_001.ogg-ce1cae59d6784decd51f009f7a6f39cc.oggvorbisstr"
+
+[deps]
+
+source_file="res://source/Pink Man/soundsandmusic/sounds/kenney_impact-sounds/Audio/impactGlass_medium_001.ogg"
+dest_files=["res://.godot/imported/impactGlass_medium_001.ogg-ce1cae59d6784decd51f009f7a6f39cc.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

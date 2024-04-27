@@ -1,0 +1,67 @@
+[gd_scene load_steps=5 format=3 uid="uid://b7gkpy5voxgvd"]
+
+[ext_resource type="Script" path="res://source/main_menu.gd" id="1_tcxwd"]
+[ext_resource type="Texture2D" uid="uid://csf2ubdbedxtl" path="res://source/Pink.png" id="2_2p603"]
+[ext_resource type="Texture2D" uid="uid://cnrvsblpgiudv" path="res://source/Cool Text - Platform Adventure 456770512251236.png" id="3_1d7i4"]
+[ext_resource type="AudioStream" uid="uid://bdqjxpotcgwby" path="res://source/Pink Man/soundsandmusic/music/Retro Beat.ogg" id="4_ur0sx"]
+
+[node name="main_menu" type="Node"]
+script = ExtResource("1_tcxwd")
+
+[node name="TextureRect2" type="TextureRect" parent="."]
+texture_filter = 1
+offset_right = 1151.0
+offset_bottom = 645.0
+texture = ExtResource("2_2p603")
+stretch_mode = 1
+
+[node name="TextureRect" type="TextureRect" parent="."]
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -321.0
+offset_top = -64.0
+offset_right = 320.0
+offset_bottom = -24.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("3_1d7i4")
+
+[node name="level1" type="Button" parent="."]
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -228.0
+offset_top = 46.0
+offset_right = -53.0
+offset_bottom = 115.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_font_sizes/font_size = 30
+text = "Level 1"
+
+[node name="level2" type="Button" parent="."]
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = 44.0
+offset_top = 43.0
+offset_right = 225.0
+offset_bottom = 114.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_font_sizes/font_size = 30
+text = "Level 2"
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("4_ur0sx")
+autoplay = true
+
+[connection signal="pressed" from="level1" to="." method="_on_level_1_pressed"]
+[connection signal="pressed" from="level2" to="." method="_on_level_2_pressed"]

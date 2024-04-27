@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://p0tdy7inxfol"
+path="res://.godot/imported/Swinging Pants.ogg-dae0873cc6da7fb96f19b1016e43b3fb.oggvorbisstr"
+
+[deps]
+
+source_file="res://source/Pink Man/soundsandmusic/music/Swinging Pants.ogg"
+dest_files=["res://.godot/imported/Swinging Pants.ogg-dae0873cc6da7fb96f19b1016e43b3fb.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

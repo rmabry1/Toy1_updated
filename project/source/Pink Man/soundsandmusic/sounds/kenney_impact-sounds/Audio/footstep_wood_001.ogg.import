@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://ceqyhj6idc4at"
+path="res://.godot/imported/footstep_wood_001.ogg-5ec0a7c60804cf772a148b3a378167e8.oggvorbisstr"
+
+[deps]
+
+source_file="res://source/Pink Man/soundsandmusic/sounds/kenney_impact-sounds/Audio/footstep_wood_001.ogg"
+dest_files=["res://.godot/imported/footstep_wood_001.ogg-5ec0a7c60804cf772a148b3a378167e8.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

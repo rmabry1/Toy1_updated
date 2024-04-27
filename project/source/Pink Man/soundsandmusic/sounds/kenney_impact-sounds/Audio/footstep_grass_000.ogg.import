@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://b6lcm0bqslfa2"
+path="res://.godot/imported/footstep_grass_000.ogg-02f59c05a2f21c74e0f01f61ef11203e.oggvorbisstr"
+
+[deps]
+
+source_file="res://source/Pink Man/soundsandmusic/sounds/kenney_impact-sounds/Audio/footstep_grass_000.ogg"
+dest_files=["res://.godot/imported/footstep_grass_000.ogg-02f59c05a2f21c74e0f01f61ef11203e.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

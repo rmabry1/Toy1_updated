@@ -1,0 +1,33 @@
+[remap]
+
+importer="font_data_dynamic"
+type="FontFile"
+uid="uid://mh35ujrd4wit"
+path="res://.godot/imported/Kenney Rocket Square.ttf-3efa2c32568fb1d55d30a21a1718bdb3.fontdata"
+
+[deps]
+
+source_file="res://source/Pink Man/soundsandmusic/music/kenney_kenney-fonts/Fonts/Kenney Rocket Square.ttf"
+dest_files=["res://.godot/imported/Kenney Rocket Square.ttf-3efa2c32568fb1d55d30a21a1718bdb3.fontdata"]
+
+[params]
+
+Rendering=null
+antialiasing=1
+generate_mipmaps=false
+multichannel_signed_distance_field=false
+msdf_pixel_range=8
+msdf_size=48
+allow_system_fallback=true
+force_autohinter=false
+hinting=1
+subpixel_positioning=1
+oversampling=0.0
+Fallbacks=null
+fallbacks=[]
+Compress=null
+compress=true
+preload=[]
+language_support={}
+script_support={}
+opentype_features={}

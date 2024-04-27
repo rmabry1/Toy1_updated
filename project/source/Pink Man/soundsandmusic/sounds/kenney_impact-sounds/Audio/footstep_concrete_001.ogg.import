@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://b8gysmed0xdgx"
+path="res://.godot/imported/footstep_concrete_001.ogg-8385496c859ed6c9cb8b44f3f6de26c8.oggvorbisstr"
+
+[deps]
+
+source_file="res://source/Pink Man/soundsandmusic/sounds/kenney_impact-sounds/Audio/footstep_concrete_001.ogg"
+dest_files=["res://.godot/imported/footstep_concrete_001.ogg-8385496c859ed6c9cb8b44f3f6de26c8.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

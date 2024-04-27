@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dac80woo25niw"
+path="res://.godot/imported/confirmation_002.ogg-a9b96334562223806703a565a295b8d7.oggvorbisstr"
+
+[deps]
+
+source_file="res://source/Pink Man/soundsandmusic/sounds/confirmation_002.ogg"
+dest_files=["res://.godot/imported/confirmation_002.ogg-a9b96334562223806703a565a295b8d7.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

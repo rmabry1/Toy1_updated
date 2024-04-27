@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://j8yme57rk1xc"
+path="res://.godot/imported/footstep_snow_004.ogg-c3da5b63fb1cb23b96a8d603b3976df1.oggvorbisstr"
+
+[deps]
+
+source_file="res://source/Pink Man/soundsandmusic/sounds/kenney_impact-sounds/Audio/footstep_snow_004.ogg"
+dest_files=["res://.godot/imported/footstep_snow_004.ogg-c3da5b63fb1cb23b96a8d603b3976df1.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://wy5l44i0lx64"
+path="res://.godot/imported/impactMetal_medium_001.ogg-eba0c12bac0e6d2e67169d70f423abba.oggvorbisstr"
+
+[deps]
+
+source_file="res://source/Pink Man/soundsandmusic/sounds/kenney_impact-sounds/Audio/impactMetal_medium_001.ogg"
+dest_files=["res://.godot/imported/impactMetal_medium_001.ogg-eba0c12bac0e6d2e67169d70f423abba.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

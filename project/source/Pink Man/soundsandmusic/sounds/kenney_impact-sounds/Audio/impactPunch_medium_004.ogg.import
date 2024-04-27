@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://c4brcdylki24b"
+path="res://.godot/imported/impactPunch_medium_004.ogg-a949d00c76317e9c6d83f7d1135cbfa5.oggvorbisstr"
+
+[deps]
+
+source_file="res://source/Pink Man/soundsandmusic/sounds/kenney_impact-sounds/Audio/impactPunch_medium_004.ogg"
+dest_files=["res://.godot/imported/impactPunch_medium_004.ogg-a949d00c76317e9c6d83f7d1135cbfa5.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
