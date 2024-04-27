@@ -15,6 +15,11 @@ run/main_scene="res://source/main_menu.tscn"
 config/features=PackedStringArray("4.2", "Forward Plus")
 config/icon="res://source/icon.svg"
 
+[display]
+
+window/size/initial_position_type=0
+window/stretch/mode="canvas_items"
+
 [input]
 
 move_left={
